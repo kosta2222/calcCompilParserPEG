@@ -1,0 +1,11 @@
+﻿DEBUG:__main__:by-co list:[12, 1, 0, 12, 2, 0, 1, 32]
+DEBUG:__main__:ser r:8
+DEBUG:__main__:b'Begin\n'
+DEBUG:__main__:b'0000: iconst 1 sp:-1 \n'
+DEBUG:__main__:b'stack=[ 1 ]\n'
+DEBUG:__main__:b'0003: iconst 2 sp:0 \n'
+DEBUG:__main__:b'stack=[ 1 2 ]\n'
+DEBUG:__main__:b'0006:  iadd sp:1 \n'
+DEBUG:__main__:b'stack=[ 3 ]\n'
+DEBUG:__main__:b'0007:  stop sp:0 \n'
+DEBUG:__main__:b'STOP VM\n'
